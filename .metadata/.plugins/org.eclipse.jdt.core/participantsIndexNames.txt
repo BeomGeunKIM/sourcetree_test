@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2909365286.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2392153138.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1547152519.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3395459074.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1486035537.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\347089090.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1600786987.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4209239489.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2133245646.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3730469506.index
+\SOEasy\src
+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\235033779.index
+\SOEasy\src
