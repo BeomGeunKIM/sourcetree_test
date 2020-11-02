@@ -17,5 +17,4 @@ INDEX VERSION 1.131+C:\sourcetree_test\.metadata\.plugins\org.eclipse.jdt.core
 2872033403.index
 3363692690.index
 1093488887.index
-3786671049.index
 916900781.index
