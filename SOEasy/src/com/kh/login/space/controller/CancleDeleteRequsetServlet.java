@@ -23,6 +23,7 @@ public class CancleDeleteRequsetServlet extends HttpServlet {
     public CancleDeleteRequsetServlet() {
         super();
         // TODO Auto-generated constructor stub
+        // test1 to
     }
 
 	/**
@@ -40,7 +41,7 @@ public class CancleDeleteRequsetServlet extends HttpServlet {
 		if(result > 0) {
 			response.sendRedirect(request.getContextPath() + "/selectTempSpace?memberNo=" + loginUser.getMemberNo());
 		} else {
-			request.setAttribute("msg", "공간 삭제 취소 요청 실패");
+			request.setAttribute("msg", "怨듦컙 �궘�젣 痍⑥냼 �슂泥� �떎�뙣");
 			request.getRequestDispatcher("views/common/errorPage.jsp").forward(request, response);
 		}
 		
