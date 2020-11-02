@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@import
+	url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
+html, body {
+	height: 100%
+}
+
+header {
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	width: 100%;
+}
+
+section {
+	min-height: 90%;
+	font-family: 'NanumSquare', sans-serif;
+	background: #ECECEC38;
+	font-weight: bolder;
+	width: 100%;
+}
+
+nav {
+	background: #ECECEC38;
+	display: block;
+	width: 100%;
+}
+
+
+}
+
+footer {
+	width: 100%;
+}
+
+.colMenu {
+	display: block;
+	width:  70%;
+	margin-left: 60px;
+	
+	
+}
+
+.colMenuTitle {
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.colMenuButton {
+	font-size: 20px;
+	font-weight: bolder;
+	margin-left: 100px;
+	text-decoration : black;
+	color : black;
+}
+.selectedButton{
+	color : #3DB6AE;
+	
+}
+.colMenuButton:hover{
+	color : #3DB6AE;
+	
+}
